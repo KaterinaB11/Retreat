@@ -1,0 +1,60 @@
+
+body{
+    font-family: "Open Sans", sans-serif;
+    width: 1200px
+}
+.header{
+    text-align: center;
+    color: white;
+    background-image: url(graphics/Snímek\ obrazovky\ 2023-09-07\ v\ 19.28.38.png);
+    height: 550px;
+    padding: 60px;
+}
+.header p{
+    padding: 70px 150px;
+    text-align: center;
+}
+h1{
+    font-family: "From the woods";
+    font-size: 150px;
+    width: 500px;
+    margin: auto
+}
+section{
+    background-image: url(graphics/Snímek\ obrazovky\ 2023-09-07\ v\ 19.28.38.png);
+    background-repeat: repeat-y;
+    background-size: 1200px;
+    color: white;
+}
+.circle{
+    background-color:#4F6A13;
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 150px
+}
+.circle-phone{
+    position: relative;
+    right: -500px;
+
+}
+.circle-tent{
+    position: relative;
+  top: 100px;
+}
+.circle-community{
+    position: relative;
+    bottom: 100px;
+}
+footer{
+    background-color: #2D4823;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 30px 150px
+}
+a{
+    color: #D3D3D3;
+}
